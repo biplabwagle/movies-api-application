@@ -1,6 +1,5 @@
-# Counter App with basic login
-
-The application search for and returns movies
+# Movies search application 
+The application search for and returns movies.
 
 ## Use the npm
 
